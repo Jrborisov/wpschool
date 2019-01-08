@@ -1,0 +1,16 @@
+/* This Awesome CSS file was created by Font Orgranizer from Hive :) */
+
+
+@font-face {
+    font-family: 'Gotha Pro Nar Bold';
+    
+    src: url('//my.ru/wp-content/uploads/font-organizer/GothaProNarBold.woff') format('woff');
+font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Gotha Pro Reg';
+    
+    src: url('//my.ru/wp-content/uploads/font-organizer/GothaProReg-1.woff') format('woff');
+font-weight: normal;
+}

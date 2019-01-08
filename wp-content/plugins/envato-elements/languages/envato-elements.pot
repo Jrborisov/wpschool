@@ -1,0 +1,138 @@
+# Copyright (C) 2018 envato-elements
+# This file is distributed under the same license as the envato-elements package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envato-elements\n"
+"Report-Msgid-Bugs-To: https://envato.com//\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Dave Baker <dave.baker@envato.com>\n"
+"Language-Team: Envato <dave.baker@envato.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: envato-elements.php:75
+msgid "Envato Elements requires PHP version %s+, plugin is currently NOT ACTIVE. Please contact the hosting provider. WordPress recommends version %s."
+msgstr ""
+
+#: envato-elements.php:80
+msgid "7.2 or above"
+msgstr ""
+
+#: envato-elements.php:99
+msgid "Envato Elements requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT ACTIVE."
+msgstr ""
+
+#: inc/class-api.php:122
+msgid "HTTP Error"
+msgstr ""
+
+#: inc/class-api.php:126
+msgid "An error occurred, please try again"
+msgstr ""
+
+#: inc/class-base.php:51, inc/class-base.php:62
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-feedback.php:69
+msgid "I've imported all of the templates I need for now"
+msgstr ""
+
+#: inc/class-feedback.php:73
+msgid "I couldn't find any suitable templates"
+msgstr ""
+
+#: inc/class-feedback.php:74
+msgid "Please let us know what kind of templates your looking for"
+msgstr ""
+
+#: inc/class-feedback.php:77
+msgid "I didn't like the templates"
+msgstr ""
+
+#: inc/class-feedback.php:81
+msgid "I couldn't get the plugin to work"
+msgstr ""
+
+#: inc/class-feedback.php:85
+msgid "Other"
+msgstr ""
+
+#: inc/class-feedback.php:86
+msgid "Please share the reason"
+msgstr ""
+
+#: inc/class-import.php:605
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/class-import.php:613
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/class-import.php:619
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/class-import.php:626
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/class-license.php:134, views/license/welcome.php:29
+msgid "There was an error with the request, please try again."
+msgstr ""
+
+#: inc/class-license.php:137
+msgid "There was an error with the request: %s. If this error continues please contact the hosting provider for assistance."
+msgstr ""
+
+#: inc/class-plugin.php:77, inc/class-plugin.php:98
+msgid "Envato Elements"
+msgstr ""
+
+#: inc/class-plugin.php:78, inc/class-section.php:68, inc/class-section.php:69
+msgid "Elements"
+msgstr ""
+
+#: inc/class-plugin.php:89, inc/class-plugin.php:90
+msgid "Template Kits"
+msgstr ""
+
+#: inc/class-section.php:38, inc/class-section.php:40, inc/class-section.php:43
+msgid "Photos"
+msgstr ""
+
+#: inc/class-section.php:47, inc/class-section.php:49
+msgid "Settings"
+msgstr ""
+
+#: views/license/welcome.php:19
+msgid "Successfully reset, please register again below."
+msgstr ""
+
+#: views/license/welcome.php:22
+msgid "Successfully registered"
+msgstr ""
+
+#: views/license/welcome.php:33
+msgid "Please agree to the Terms & Conditions in order to continue."
+msgstr ""
+
+#: views/license/welcome.php:36
+msgid "Activation failed, please ensure a valid email address is entered."
+msgstr ""
+
+#: views/license/welcome.php:73
+msgid "Continue"
+msgstr ""
+
+#: views/sections/about.php:14
+msgid "Find out more about Envato Elements"
+msgstr ""

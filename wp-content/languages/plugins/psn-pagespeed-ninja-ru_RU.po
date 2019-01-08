@@ -1,0 +1,204 @@
+# Translation of Plugins - PageSpeed Ninja - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - PageSpeed Ninja - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 18:39:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - PageSpeed Ninja - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/support/users/pagespeed/"
+msgstr "https://profiles.wordpress.org/pagespeed/"
+
+#. Description of the plugin/theme
+msgid "The quickest and most advanced performance plugin. Make your site super fast and fix PageSpeed issues with one click! Try different settings to find the best set of options for your site."
+msgstr "Быстрый и продвинутый плагин для производительности, который поможет сделать ваш сайт более быстрым и исправит недочеты, обнаруженные сервисом PageSpeed Insights, в один клик! Попробуйте разные варианты настроек, чтобы найти наилучший вариант для вашего сайта."
+
+#. Plugin URI of the plugin/theme
+msgid "http://pagespeed.ninja"
+msgstr "http://pagespeed.ninja"
+
+#: public/class-pagespeedninja-public.php:605
+msgid "Optimized with <a href=\"%s\">PageSpeed Ninja</a>"
+msgstr "Оптимизировано с помощью <a href=\"%s\">PageSpeed Ninja</a>"
+
+#: admin/partials/pagespeedninja-admin-basic.php:117
+msgid "Usability"
+msgstr "Usability"
+
+#: admin/partials/pagespeedninja-admin-basic.php:83
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/partials/pagespeedninja-admin-basic.php:70
+msgid "Color of enabled switch depends on how it affects your website's PageSpeed Insights score. Green: improves the score; Orange: minor or none effect on the score; Red: negative effect on the score."
+msgstr "Цвет переключателя зависит от того, как он влияет на результаты PageSpeed Insights. Зеленый: улучшает результат; Оранжевый: небольшой или отсутствующий эффект; Красный: негативный эффект."
+
+#: admin/partials/pagespeedninja-admin-basic.php:57
+#: admin/partials/pagespeedninja-admin-basic.php:95
+#: admin/partials/pagespeedninja-admin-basic.php:129
+msgid "Passed"
+msgstr "Отлично"
+
+#: admin/partials/pagespeedninja-admin-basic.php:54
+#: admin/partials/pagespeedninja-admin-basic.php:92
+#: admin/partials/pagespeedninja-admin-basic.php:126
+msgid "Consider Fixing"
+msgstr "Замечания"
+
+#: admin/partials/pagespeedninja-admin-basic.php:51
+#: admin/partials/pagespeedninja-admin-basic.php:89
+#: admin/partials/pagespeedninja-admin-basic.php:123
+msgid "Should Fix"
+msgstr "Нужно исправить"
+
+#: admin/partials/pagespeedninja-admin-basic.php:48
+#: admin/partials/pagespeedninja-admin-basic.php:86
+#: admin/partials/pagespeedninja-admin-basic.php:120
+msgid "New score (click to test website in popup)"
+msgstr "Новый результат (нажмите, чтобы открыть сайт во всплывающем окне)"
+
+#: admin/partials/pagespeedninja-admin-basic.php:47
+#: admin/partials/pagespeedninja-admin-basic.php:85
+#: admin/partials/pagespeedninja-admin-basic.php:119
+msgid "Current score"
+msgstr "Текущий результат"
+
+#: admin/partials/pagespeedninja-admin-basic.php:46
+#: admin/partials/pagespeedninja-admin-basic.php:84
+#: admin/partials/pagespeedninja-admin-basic.php:118
+msgid "Original score"
+msgstr "Исходный результат"
+
+#: admin/partials/pagespeedninja-admin-basic.php:45
+msgid "Desktop"
+msgstr "Desktop"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:81
+msgid "Will be implemented further."
+msgstr "Будет реализовано позже."
+
+#: admin/partials/pagespeedninja-admin-advanced.php:60
+msgid "Custom"
+msgstr "Пользовательская"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:59
+msgid "Experimental"
+msgstr "Экспериментальная"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:58
+msgid "Ultra"
+msgstr "Ультра"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:57
+msgid "Optimal"
+msgstr "Оптимальная"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:56
+msgid "Safe"
+msgstr "Безопасная"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:55
+msgid "Presets"
+msgstr "Предустановка"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:49
+#: admin/partials/pagespeedninja-admin-basic.php:33
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:48
+#: admin/partials/pagespeedninja-admin-basic.php:32
+msgid "General"
+msgstr "Основные"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:44
+#: admin/partials/pagespeedninja-admin-basic.php:28
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/partials/pagespeedninja-admin-advanced.php:44
+#: admin/partials/pagespeedninja-admin-basic.php:28
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/class-pagespeedninja-admin.php:416
+#: admin/class-pagespeedninja-admin.php:454
+msgid "Excluded"
+msgstr "Исключить"
+
+#: admin/class-pagespeedninja-admin.php:416
+#: admin/class-pagespeedninja-admin.php:454
+msgid "Date added"
+msgstr "Дата добавления"
+
+#: admin/class-pagespeedninja-admin.php:416
+#: admin/class-pagespeedninja-admin.php:454
+msgid "URL"
+msgstr "URL"
+
+#: admin/class-pagespeedninja-admin.php:367
+msgid "&#x2191; Generate Above-the-fold CSS styles"
+msgstr "&#x2191; Сгенерировать Above-the-fold CSS стили"
+
+#: admin/class-pagespeedninja-admin.php:359
+msgid "(%d bytes)"
+msgstr "(%d байт)"
+
+#: admin/class-pagespeedninja-admin.php:359
+msgid "Log file:"
+msgstr "Лог-файл:"
+
+#: admin/class-pagespeedninja-admin.php:295
+#: admin/class-pagespeedninja-admin.php:311
+msgid "Configuration field doesn't exist: %s"
+msgstr "Параметр конфигурации не существует: %s"
+
+#: admin/class-pagespeedninja-admin.php:162
+msgid "Above-the-fold CSS styles have been generated. Save changes to apply. You can view and edit generated styles in Advanced settings page."
+msgstr "Были сгенерированы Above-the-fold CSS стили. Сохраните изменения, чтобы применить их. Вы можете просмотреть и отредактировать сгенерированные стили на странице Расширенных настроек."
+
+#: admin/class-pagespeedninja-admin.php:128
+msgid "Review"
+msgstr "Отзывы"
+
+#: admin/class-pagespeedninja-admin.php:127
+msgid "Get tips"
+msgstr "Советы"
+
+#: admin/class-pagespeedninja-admin.php:126
+msgid "Support"
+msgstr "Помощь"
+
+#: admin/class-pagespeedninja-admin.php:114
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/class-pagespeedninja-admin.php:92
+msgid "Size of %1$s file is %2$s."
+msgstr "Размер файла %1$s равен %2$s."
+
+#: admin/class-pagespeedninja-admin.php:84
+msgid "Note that some PageSpeed Ninja features (\"Scale large images\" and \"Remove IE conditionals\") may not be compatible with caching plugin"
+msgstr "Обратите внимание, что некоторые настройки PageSpeed Ninja (\"Scale large images\" и \"Remove IE conditionals\") могут быть несовместимы с плагинами кэширования"
+
+#. #-#-#-#-#  psn-pagespeed-ninja-code.pot (PageSpeed Ninja 0.9.10)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  psn-pagespeed-ninja-code.pot (PageSpeed Ninja 0.9.10)  #-#-#-#-#
+#. Author of the plugin/theme
+#: admin/class-pagespeedninja-admin.php:65
+msgid "PageSpeed Ninja"
+msgstr "PageSpeed Ninja"
+
+#: admin/class-pagespeedninja-admin.php:62
+msgid "PageSpeed Ninja Advanced Options"
+msgstr "Расширенные настройки PageSpeed Ninja"
+
+#: admin/class-pagespeedninja-admin.php:60
+msgid "PageSpeed Ninja Options"
+msgstr "Настройки PageSpeed Ninja"
